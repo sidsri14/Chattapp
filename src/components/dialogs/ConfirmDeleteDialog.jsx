@@ -25,6 +25,6 @@ const ConfirmDeleteDialog = ({ open, handleClose, deleteHandler }) => {
       </DialogActions>
     </Dialog>
   );
-};
+};  
 
 export default ConfirmDeleteDialog;
